@@ -1,0 +1,35 @@
+# Puerto del servidor
+server:
+  port: 8082
+  error:
+    whitelabel:
+      enabled: false
+    include-message: always
+    include-binding-errors: always
+
+# Nombre del servicio
+spring:
+  application:
+    name: servicio-cursos
+  
+  # MongoDB - Atlas (Cloud)
+  data:
+    mongodb:
+      uri: mongodb+srv://lopuaz909_db_user:ampkWIfWSf0AJ29u@universidad-cluster.airjh7v.mongodb.net/?appName=universidad-cluster
+  
+  # Jackson configuration
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    deserialization:
+      fail-on-unknown-properties: false
+
+# URL del servicio de estudiantes (para Feign)
+estudiantes:
+  service:
+    url: http://localhost:8081
+
+# Logs
+logging:
+  level:
+    org.springframework.data.mongodb: DEBUG
