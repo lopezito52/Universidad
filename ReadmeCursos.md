@@ -59,6 +59,13 @@ POST /api/cursos/{id}/inscribir
 - El curso cambia a estado LLENO al alcanzar su capacidad máxima
 - Al inscribir, se consulta `servicio-estudiantes` via REST para validar el estudiante
 
+## Casos de uso
+- Crear un nuevo curso
+- Inscribir un estudiante a un curso (llama al módulo Estudiantes vía REST para validar que existe y está ACTIVO)
+- Listar estudiantes inscritos en un curso
+- Consultar curso por ID
+- Desactivar un curso
+
 ## Comunicación entre servicios
 ```
 servicio-cursos (8082) ──GET /api/estudiantes/{id}──► servicio-estudiantes (8081)
