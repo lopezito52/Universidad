@@ -1,0 +1,25 @@
+spring:
+  data:
+    mongodb:
+      database: testdb
+      host: localhost
+      port: 0
+      auto-index-creation: true
+
+  mongodb:
+    embedded:
+      version: 4.4.0  
+
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    deserialization:
+      fail-on-unknown-properties: false
+
+estudiantes:
+  service:
+    url: http://localhost:8081
+
+logging:
+  level:
+    org.springframework.data.mongodb: WARN

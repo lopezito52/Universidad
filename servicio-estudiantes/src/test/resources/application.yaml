@@ -1,0 +1,22 @@
+# Versión de MongoDB embebido — ESTA ES LA LÍNEA QUE FALTABA
+de:
+  flapdoodle:
+    mongodb:
+      embedded:
+        version: 7.0.0
+
+spring:
+  data:
+    mongodb:
+      auto-index-creation: true
+  
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    deserialization:
+      fail-on-unknown-properties: false
+
+server:
+  error:
+    whitelabel:
+      enabled: false

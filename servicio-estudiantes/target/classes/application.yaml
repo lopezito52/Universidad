@@ -15,7 +15,7 @@ spring:
   # MongoDB - Atlas (Cloud)
   data:
     mongodb:
-      uri: mongodb+srv://lopuaz909_db_user:ampkWIfWSf0AJ29u@universidad-cluster.airjh7v.mongodb.net/?appName=universidad-cluster
+      uri: mongodb+srv://lopuaz909_db_user:ampkWIfWSf0AJ29u@universidad-cluster.airjh7v.mongodb.net/universidad_estudiantes?retryWrites=true&w=majority&appName=UniversidadCluster
   
   # Jackson configuration
   jackson:

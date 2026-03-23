@@ -4,12 +4,15 @@ C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\u
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\exception\ErrorResponse.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\exception\GlobalExceptionHandler.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\service\CursoService.java
+C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\dto\InscripcionRequestDTO.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\exception\EstudianteInactivoException.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\controller\CursoController.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\dto\CursoRequestDTO.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\repository\CursoRepository.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\service\CursoServiceImpl.java
+C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\client\EstudianteClientDTO.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\ServicioCursosApplication.java
+C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\exception\EstudianteYaInscritoException.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\model\EstudianteInscrito.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\exception\CursoNotFoundException.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-cursos\src\main\java\com\universidad\servicio_cursos\model\Curso.java

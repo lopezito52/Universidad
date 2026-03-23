@@ -2,11 +2,12 @@ C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\dto\EstudianteResponseDTO.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\exception\GlobalExceptionHandler.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\dto\EstudianteRequestDTO.java
-C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\controller\EstudianteController.java
-C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\repository\EstudianteRepository.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\service\EstudianteServiceImpl.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\service\EstudianteService.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\model\Estudiante.java
-C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\ServicioEstudiantesApplication.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\exception\EmailDuplicadoException.java
+C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\controller\EstudianteController.java
+C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\repository\EstudianteRepository.java
+C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\ServicioEstudiantesApplication.java
 C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\exception\ErrorResponse.java
+C:\Users\SAMUEL\Documents\Patrones\Trabajo33\servicio-estudiantes\src\main\java\com\universidad\servicio_estudiantes\exception\EstudianteConCursosException.java
