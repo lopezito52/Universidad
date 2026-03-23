@@ -66,14 +66,6 @@ POST /api/estudiantes
 - Un estudiante puede estar en estado ACTIVO o INACTIVO
 - No se puede eliminar un estudiante que tenga cursos asignados
 
-### Módulo Cursos:
-
-- Un curso debe tener nombre, descripción, capacidad máxima y estado
-- Un curso puede estar en estado ACTIVO, INACTIVO o LLENO
-- No se pueden inscribir más estudiantes de la capacidad máxima
-- No se puede inscribir un estudiante INACTIVO a un curso
-- No se puede inscribir un estudiante que ya está en el curso
-
 
 ## Casos de Uso
 ### Módulo Estudiantes:
@@ -84,13 +76,6 @@ POST /api/estudiantes
 - Listar todos los estudiantes activos
 - Desactivar un estudiante
 
-### Módulo Cursos:
-
-- Crear un nuevo curso
-- Inscribir un estudiante a un curso (llama al módulo Estudiantes vía REST para validar que existe y está ACTIVO)
-- Listar estudiantes inscritos en un curso
-- Consultar curso por ID
-- Desactivar un curso
 
 ## Tests
 ```bash
